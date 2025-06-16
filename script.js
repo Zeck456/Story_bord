@@ -62,15 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, acho que a faculdade ou o trabalho será onde realmente desenvolvo minhas habilidades e aprendo o que importa.",
-                afirmacao: "Muitas pessoas acreditam que o ensino formal, seja na faculdade ou em um ambiente de trabalho, é onde realmente se aprende as habilidades práticas e técnicas que são essenciais para a vida profissional, superando a educação mais genérica do ensino médio.
-
-."
+                afirmacao: "Muitas pessoas acreditam que o ensino formal, seja na faculdade ou em um ambiente de trabalho, é onde realmente se aprende as habilidades práticas e técnicas que são essenciais para a vida profissional, superando a educação mais genérica do ensino médio.."
             },
             {
                 texto: "Não, eu acredito que a base do ensino médio já me preparou o suficiente para o que virá.",
-                afirmacao: "Alguns acreditam que a base que o ensino médio oferece é o suficiente para a vida adulta, considerando que o aprendizado ali adquirido é essencial e que a adaptação ao mercado de trabalho será mais uma questão de vivência do que de novos conhecimentos acadêmicos.
-
- "
+                afirmacao: "Alguns acreditam que a base que o ensino médio oferece é o suficiente para a vida adulta, considerando que o aprendizado ali adquirido é essencial e que a adaptação ao mercado de trabalho será mais uma questão de vivência do que de novos conhecimentos acadêmicos."
             }
         ]
     },
